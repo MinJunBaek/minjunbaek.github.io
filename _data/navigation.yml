@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "MySQL"
+    url: /categories/my-sql/
   - title: "Category"
     url: /categories/
   - title: "Tag"
